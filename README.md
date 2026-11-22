@@ -1,20 +1,15 @@
 # Snowfield
 
-Applied AI implementation, custom multi-model workflows, and operational enablement built inside accounts you own.
+Applied AI workflows, operational knowledge systems, and team enablement built inside accounts you own. Remote, nationwide.
 
-Founded by Jordan Masopust in Indianapolis, IN (serving US businesses and remote product or operations teams).
+## What Snowfield Builds
 
-## What We Build
-
-- **Custom Operational Assistants:** Multi-model workflows across Claude, Gemini, and OpenAI with lean context budgets, strict grounding guardrails, and refusal gates.
-- **Structured Knowledge Systems:** Playbook audits, Knowledge-Centered Service (KCS) architecture, and clean operational reference layers.
-- **Role-Based Onboarding Web Apps:** Interactive onboarding, training, and live-call operator tools in React, JavaScript, HTML/CSS, and Python.
-- **Blind-QA & E-Commerce Diagnostics:** Independent cross-model verification pipelines and catalog, search-compliance, pricing, and shipping-margin audits.
+- Custom Operational Assistants: Multi-model workflows across Claude, Gemini, and OpenAI with lean context budgets, source grounding, and explicit refusal rules when documentation is silent.
+- Operational Knowledge Systems: Playbook audits, Knowledge-Centered Service structure, and one clean reference layer for both staff and retrieval tools.
+- Team Enablement: Role-based onboarding and training web apps built in React, JavaScript, HTML/CSS, and Python, followed by live onboarding and clean handover.
 
 ## Links
 
-- **Website:** https://snowfieldhq.github.io/
-- **Founder Profile:** https://snowfieldhq.github.io/jordan-masopust.html
-- **LinkedIn (Snowfield):** https://www.linkedin.com/company/snowfieldhq/
-- **LinkedIn (Jordan Masopust):** https://www.linkedin.com/in/jordan-masopust/
-- **Contact:** jordan.masopust@gmail.com
+- Website: https://snowfieldhq.github.io/
+- LinkedIn: https://www.linkedin.com/company/snowfieldhq/
+- Contact: snowfieldhq@atomicmail.io
